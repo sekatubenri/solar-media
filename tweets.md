@@ -5,7 +5,7 @@
 ☀️ 余剰電力は売電で収入に
 ☀️ 停電時も電気が使える
 
-無料見積もりはこちら→ https://solar-media.vercel.app/
+無料見積もりはこちら→ https://solar-media-five.vercel.app/
 #太陽光発電 #省エネ #節電
 
 ## Day 2
@@ -16,7 +16,7 @@
 💰 10kW：250〜350万円
 
 補助金活用で実質費用は大幅ダウン！
-https://solar-media.vercel.app/category/cost
+https://solar-media-five.vercel.app/category/cost
 #太陽光発電 #費用 #設置
 
 ## Day 3
@@ -27,7 +27,7 @@ https://solar-media.vercel.app/category/cost
 🏛 市区町村の補助金
 
 組み合わせで最大100万円以上補助も！
-https://solar-media.vercel.app/category/cost
+https://solar-media-five.vercel.app/category/cost
 #太陽光発電 #補助金
 
 ## Day 4
@@ -38,7 +38,7 @@ https://solar-media.vercel.app/category/cost
 ✅ 複数見積もりで比較
 ✅ 訪問販売は要注意
 
-https://solar-media.vercel.app/category/company
+https://solar-media-five.vercel.app/category/company
 #太陽光発電 #業者選び
 
 ## Day 5
@@ -49,7 +49,7 @@ https://solar-media.vercel.app/category/company
 🔋 売電収入と自家消費を最適化
 
 費用：蓄電池100〜200万円追加
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #太陽光発電 #蓄電池 #省エネ
 
 ## Day 6
@@ -61,7 +61,7 @@ https://solar-media.vercel.app/
 売電収入：約3.6万円/年
 
 10〜15年で回収が目安！
-https://solar-media.vercel.app/category/cost
+https://solar-media-five.vercel.app/category/cost
 #太陽光 #売電 #投資
 
 ## Day 7
@@ -72,7 +72,7 @@ https://solar-media.vercel.app/category/cost
 🏆 長州産業：国産で安心
 🏆 京セラ：耐久性に定評
 
-https://solar-media.vercel.app/category/panel
+https://solar-media-five.vercel.app/category/panel
 #太陽光パネル #比較
 
 ## Day 8
@@ -83,7 +83,7 @@ https://solar-media.vercel.app/category/panel
 📊 収支プラスになる年数が多い
 
 長期投資として非常に魅力的！
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #太陽光発電 #投資
 
 ## Day 9
@@ -94,7 +94,7 @@ FIT終了後の太陽光発電活用法
 📌 EV充電と組み合わせる
 
 FIT後も賢く活用しよう！
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #太陽光 #FIT #蓄電池
 
 ## Day 10
@@ -105,7 +105,7 @@ ZEH（ゼロエネルギーハウス）とは？
 🏠 光熱費が大幅削減
 
 ZEHで未来の家を実現！
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #ZEH #太陽光発電 #省エネ
 
 ## Day 11
@@ -116,7 +116,7 @@ https://solar-media.vercel.app/
 🔧 10〜15年後にパワコン交換（30〜50万円）
 
 定期点検で長持ちさせよう！
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #太陽光発電 #メンテナンス
 
 ## Day 12
@@ -127,7 +127,7 @@ https://solar-media.vercel.app/
 🚗 CO2削減・環境にやさしい生活
 
 EV×太陽光の相乗効果！
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #太陽光発電 #EV #電気自動車
 
 ## Day 13
@@ -138,7 +138,7 @@ https://solar-media.vercel.app/
 ⚠️ 見積もりは必ず複数社から
 
 悪質業者に騙されないよう注意！
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #太陽光発電 #詐欺対策
 
 ## Day 14
@@ -150,5 +150,5 @@ https://solar-media.vercel.app/
 4️⃣ 蓄電池とセット検討
 5️⃣ 契約・設置工事
 
-https://solar-media.vercel.app/
+https://solar-media-five.vercel.app/
 #太陽光発電 #2026年

@@ -1,5 +1,5 @@
 ﻿import { getAllArticles } from '@/lib/articles'
-const BASE_URL = 'https://solar-media.vercel.app'
+const BASE_URL = 'https://solar-media-five.vercel.app'
 export async function GET() {
   const articles = getAllArticles().slice(0, 20)
   const items = articles.map(a => `<item><title><![CDATA[]]></title><link>/article/</link><guid>/article/</guid><pubDate></pubDate><description><![CDATA[]]></description></item>`).join('')
