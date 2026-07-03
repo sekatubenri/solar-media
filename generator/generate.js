@@ -22,7 +22,7 @@ async function generateArticle() {
   const topicsPath = path.join(__dirname, '..', 'unused-topics.json');
   const contentDir = path.join(__dirname, '..', 'content');
   fs.mkdirSync(contentDir, { recursive: true });
-  const topics = JSON.parse(fs.readFileSync(topicsPath, 'utf-8'));
+  const topics = JSON.parse(fs.readFileSync(topicsPath, 'utf-8').replace(/^﻿/, ''));
   const existingFiles = new Set(fs.readdirSync(contentDir));
   const topic = topics.find(t => !existingFiles.has(t.filename));
   if (!topic) { console.log('全トピック生成完了'); process.exit(0); }
