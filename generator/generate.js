@@ -44,4 +44,19 @@ async function generateArticle() {
   fs.writeFileSync(topicsPath, JSON.stringify(topics.filter(t => t.filename !== topic.filename), null, 2));
   console.log(`完了: ${topic.filename}`);
 }
-generateArticle().catch(err => { console.error('エラー:', err.message); process.exit(1); });
+async function run() {
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      await generateArticle();
+      break;
+    } catch (err) {
+      console.error(`試行${attempt}回目失敗: ${err.message}`);
+      if (attempt === 3) {
+        console.error('3回失敗。このトピックをスキップします。');
+        process.exit(0);
+      }
+      await new Promise(r => setTimeout(r, 3000));
+    }
+  }
+}
+run();
