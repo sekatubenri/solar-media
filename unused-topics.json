@@ -128,5 +128,155 @@
     "title": "再生可能エネルギーの種類と太陽光の位置付け",
     "filename": "renewable-energy-2026.json",
     "category": "beginner"
+  },
+  {
+    "filename": "solar-roi-2027.json",
+    "title": "太陽光発電の投資回収年数を徹底計算【2027年版】",
+    "category": "cost"
+  },
+  {
+    "filename": "v2h-solar-2027.json",
+    "title": "V2H×太陽光発電で電気代ゼロを実現する方法",
+    "category": "beginner"
+  },
+  {
+    "filename": "allelectric-solar-2027.json",
+    "title": "オール電化×太陽光発電で光熱費ゼロを目指す",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-tax-2027.json",
+    "title": "太陽光発電の確定申告と税金対策完全ガイド",
+    "category": "cost"
+  },
+  {
+    "filename": "snow-solar-2027.json",
+    "title": "雪国・北海道での太陽光発電は得か徹底検証",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-maker-2027.json",
+    "title": "太陽光発電メーカー比較ランキング【2027年最新】",
+    "category": "company"
+  },
+  {
+    "filename": "solar-regret-2027.json",
+    "title": "太陽光発電で後悔しないための注意点10選",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-direction-2027.json",
+    "title": "太陽光発電 南向き以外の屋根でも大丈夫？方角別発電量比較",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-smarthome-2027.json",
+    "title": "スマートホームと太陽光発電の連携で賢く節電",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-insurance-2027.json",
+    "title": "太陽光発電の火災保険・地震保険の選び方",
+    "category": "cost"
+  },
+  {
+    "filename": "perovskite-solar-2027.json",
+    "title": "ペロブスカイト太陽電池とは？次世代技術を解説",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-fit-end-2027.json",
+    "title": "太陽光発電 FIT終了後の売電価格と対策",
+    "category": "cost"
+  },
+  {
+    "filename": "solar-scam-2027.json",
+    "title": "太陽光発電の訪問営業・悪質業者を見分ける方法",
+    "category": "company"
+  },
+  {
+    "filename": "rental-solar-2027.json",
+    "title": "賃貸でも使える太陽光発電・ポータブルソーラー活用法",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-neighbor-2027.json",
+    "title": "太陽光発電の導入前に必ず確認すべき近隣トラブル対策",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-battery-set-2027.json",
+    "title": "太陽光発電と蓄電池を同時導入するメリット・デメリット",
+    "category": "cost"
+  },
+  {
+    "filename": "solar-subsidy-2027.json",
+    "title": "2027年版 太陽光発電の補助金・助成金まとめ",
+    "category": "cost"
+  },
+  {
+    "filename": "solar-pcs-2027.json",
+    "title": "太陽光発電のパワーコンディショナー寿命と交換費用",
+    "category": "cost"
+  },
+  {
+    "filename": "solar-roof-type-2027.json",
+    "title": "屋根の種類別 太陽光パネル設置の可否と注意点",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-self-use-2027.json",
+    "title": "太陽光発電 自家消費型の導入が増える理由とメリット",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-business-2027.json",
+    "title": "法人・事業者向け太陽光発電の節税・補助金活用",
+    "category": "company"
+  },
+  {
+    "filename": "solar-remove-2027.json",
+    "title": "太陽光発電の撤去・廃棄費用の相場と注意点",
+    "category": "cost"
+  },
+  {
+    "filename": "solar-used-house-2027.json",
+    "title": "中古住宅に太陽光発電を設置するときの注意点",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-small-2027.json",
+    "title": "太陽光発電 一人暮らし・小型パネルの選び方",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-output-control-2027.json",
+    "title": "太陽光発電の出力制御とは？影響と対策を解説",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-galvalume-2027.json",
+    "title": "ガルバリウム鋼板屋根への太陽光設置完全ガイド",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-monitor-2027.json",
+    "title": "太陽光発電の発電量モニタリングアプリ比較",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-ppa-2027.json",
+    "title": "太陽光発電 屋根貸し（PPA）モデルのメリット・デメリット",
+    "category": "cost"
+  },
+  {
+    "filename": "solar-ecocute-2027.json",
+    "title": "太陽光発電と電気温水器・エコキュートの相性",
+    "category": "beginner"
+  },
+  {
+    "filename": "solar-clean-2027.json",
+    "title": "太陽光発電 設置後のメンテナンス・洗浄頻度ガイド",
+    "category": "cost"
   }
 ]
