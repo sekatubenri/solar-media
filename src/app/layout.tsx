@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://solar-select.jp'),
   title: { default: '太陽光発電ナビ | 費用・補助金・業者比較', template: '%s | 太陽光発電ナビ' },
   description: '太陽光発電の設置費用・補助金・業者比較を徹底解説。蓄電池との組み合わせや売電収入シミュレーションも。',
-  verification: { google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA' },
+  verification: { google: 'WB6PzJXooGXNSqOLjs_nW1lW9knLzre5sGA5bsebfM0' },
 }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
