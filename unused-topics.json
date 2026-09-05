@@ -128,5 +128,130 @@
     "title": "再生可能エネルギーの種類と太陽光の位置付け",
     "filename": "renewable-energy-2026.json",
     "category": "beginner"
+  },
+  {
+    "title": "太陽光発電の耐用年数と寿命はどれくらいか",
+    "filename": "solar-lifespan-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "太陽光発電の台風・災害対策と保険の重要性",
+    "filename": "solar-typhoon-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "太陽光発電の設置面積と必要なパネル枚数の目安",
+    "filename": "solar-area-panels-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "オフグリッド太陽光発電システムとは【仕組みと費用】",
+    "filename": "offgrid-solar-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "太陽光発電を設置すると固定資産税はどう変わるか",
+    "filename": "solar-property-tax-2026.json",
+    "category": "cost"
+  },
+  {
+    "title": "太陽光発電投資の利回りシミュレーション2026年最新版",
+    "filename": "solar-roi-simulation-2026.json",
+    "category": "cost"
+  },
+  {
+    "title": "太陽光発電の売電単価推移と今後の見通し",
+    "filename": "solar-sell-price-trend-2026.json",
+    "category": "cost"
+  },
+  {
+    "title": "太陽光発電と蓄電池、容量選びの正しいコツ",
+    "filename": "solar-battery-capacity-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "太陽光発電の初期費用を抑える3つの方法",
+    "filename": "solar-cost-reduce-2026.json",
+    "category": "cost"
+  },
+  {
+    "title": "太陽光発電はローン購入と現金購入どちらが得か",
+    "filename": "solar-loan-vs-cash-2026.json",
+    "category": "cost"
+  },
+  {
+    "title": "太陽光パネルクリーニングの費用と適切な頻度",
+    "filename": "solar-cleaning-2026.json",
+    "category": "cost"
+  },
+  {
+    "title": "太陽光発電設備の減価償却と税務処理の基本",
+    "filename": "solar-depreciation-2026.json",
+    "category": "cost"
+  },
+  {
+    "title": "京セラ太陽光パネルの特徴と価格を解説",
+    "filename": "kyocera-solar-2026.json",
+    "category": "panel"
+  },
+  {
+    "title": "カナディアン・ソーラーの評判と価格を比較",
+    "filename": "canadian-solar-2026.json",
+    "category": "panel"
+  },
+  {
+    "title": "太陽光パネルの発電効率ランキング2026年版",
+    "filename": "solar-efficiency-ranking-2026.json",
+    "category": "panel"
+  },
+  {
+    "title": "次世代ペロブスカイト太陽電池の将来性とは",
+    "filename": "perovskite-solar-2026.json",
+    "category": "panel"
+  },
+  {
+    "title": "太陽光発電業者から正しく相見積もりを取る方法",
+    "filename": "solar-multiple-quotes-2026.json",
+    "category": "company"
+  },
+  {
+    "title": "太陽光発電業者のアフターサービス・保証内容を比較",
+    "filename": "solar-aftercare-2026.json",
+    "category": "company"
+  },
+  {
+    "title": "大手ハウスメーカーの太陽光発電サービスを比較",
+    "filename": "housemaker-solar-2026.json",
+    "category": "company"
+  },
+  {
+    "title": "太陽光発電業者の口コミ・評判サイトの正しい見方",
+    "filename": "solar-review-site-2026.json",
+    "category": "company"
+  },
+  {
+    "title": "卒FIT後の太陽光発電、売電先はどう選ぶべきか",
+    "filename": "sotsu-fit-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "太陽光発電の設置に必要な近隣挨拶とトラブル防止策",
+    "filename": "solar-neighbor-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "停電時に太陽光発電はどう使えるのか",
+    "filename": "solar-blackout-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "曇りの日・雨の日の太陽光発電量はどれくらい落ちるか",
+    "filename": "solar-cloudy-rain-2026.json",
+    "category": "beginner"
+  },
+  {
+    "title": "太陽光パネルのリユース・リサイクル問題を解説",
+    "filename": "solar-recycle-2026.json",
+    "category": "beginner"
   }
 ]
