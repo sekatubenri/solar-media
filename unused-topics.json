@@ -1,132 +1,116 @@
 [
   {
-    "title": "蓄電池と太陽光発電の組み合わせ効果",
-    "filename": "solar-battery-2026.json",
-    "category": "beginner"
+    "filename": "city-solar-subsidy-application-flow.json",
+    "title": "市の太陽光補助金 申請の流れを解説｜必要書類・期限・注意点まとめ",
+    "category": "cost",
+    "keyword": "市 太陽光 補助金 申請の流れ"
   },
   {
-    "title": "売電収入のシミュレーションと現実",
-    "filename": "solar-sell-simulation-2026.json",
-    "category": "cost"
+    "filename": "tokyo-solar-subsidy-amount.json",
+    "title": "東京都の太陽光補助金はいくら？2026年度の金額と申請条件を徹底解説",
+    "category": "cost",
+    "keyword": "東京都 太陽光 補助金 いくら"
   },
   {
-    "title": "太陽光発電の設置に適した屋根の条件",
-    "filename": "solar-roof-condition-2026.json",
-    "category": "beginner"
+    "filename": "solar-power-demerits.json",
+    "title": "太陽光発電のデメリット7つと解決策｜導入前に知るべきリスクと対処法",
+    "category": "beginner",
+    "keyword": "太陽光発電 デメリット"
   },
   {
-    "title": "パナソニック太陽光パネルの特徴と価格",
-    "filename": "panasonic-solar-2026.json",
-    "category": "panel"
+    "filename": "solar-panel-n-type-p-type.json",
+    "title": "太陽光パネルのN型とP型の違いとは？発電効率・劣化・価格を比較",
+    "category": "panel",
+    "keyword": "太陽光パネル n 型 p 型違い"
   },
   {
-    "title": "長州産業の太陽光発電の評判と価格",
-    "filename": "choshu-solar-2026.json",
-    "category": "panel"
+    "filename": "sotsu-fit-battery.json",
+    "title": "卒FIT後に蓄電池は必要？導入費用と元が取れるかを徹底シミュレーション",
+    "category": "cost",
+    "keyword": "卒fit 蓄電池"
   },
   {
-    "title": "太陽光発電の訪問販売トラブルと対策",
-    "filename": "solar-trouble-2026.json",
-    "category": "company"
+    "filename": "battery-dr-subsidy-2026.json",
+    "title": "蓄電池の2026年度DR補助金とは？対象機器・金額・申請方法を解説",
+    "category": "cost",
+    "keyword": "蓄電池 2026年度 dr補助金"
   },
   {
-    "title": "FIT制度終了後の太陽光発電の活用法",
-    "filename": "fit-after-2026.json",
-    "category": "beginner"
+    "filename": "battery-cost-market-price.json",
+    "title": "家庭用蓄電池の費用相場はいくら？容量別の価格と工事費・安く買うコツ",
+    "category": "cost",
+    "keyword": "蓄電池 費用 相場"
   },
   {
-    "title": "タイナビとグリエネの違いを比較",
-    "filename": "tainabi-vs-griene-2026.json",
-    "category": "company"
+    "filename": "battery-maker-comparison.json",
+    "title": "家庭用蓄電池メーカー比較2026｜主要8社の特徴・価格・保証を徹底解説",
+    "category": "company",
+    "keyword": "蓄電池 メーカー"
   },
   {
-    "title": "太陽光発電の発電量と天気の関係",
-    "filename": "solar-weather-2026.json",
-    "category": "beginner"
+    "filename": "battery-single-vs-hybrid.json",
+    "title": "蓄電池の単機能型とハイブリッド型の違いとは？選び方と費用を徹底比較",
+    "category": "panel",
+    "keyword": "蓄電池単機能ハイブリッド違い"
   },
   {
-    "title": "マンション・集合住宅への太陽光設置",
-    "filename": "apartment-solar-2026.json",
-    "category": "beginner"
+    "filename": "portable-power-vs-home-battery.json",
+    "title": "ポータブル電源と家庭用蓄電池の違いとは？容量・価格・停電時の用途で比較",
+    "category": "beginner",
+    "keyword": "ポータブル 電源 蓄電池 違い"
   },
   {
-    "title": "太陽光発電のメンテナンス費用と頻度",
-    "filename": "solar-maintenance-2026.json",
-    "category": "cost"
+    "filename": "solar-maker-not-recommended.json",
+    "title": "太陽光発電でおすすめしないメーカーの特徴とは？失敗しない見極め方",
+    "category": "company",
+    "keyword": "太陽光発電 おすすめ しない メーカー"
   },
   {
-    "title": "ゼロエネルギーハウス（ZEH）と太陽光",
-    "filename": "zeh-solar-2026.json",
-    "category": "beginner"
+    "filename": "solar-mandatory-2026.json",
+    "title": "太陽光発電の2026年義務化とは？対象住宅と費用負担をわかりやすく解説",
+    "category": "beginner",
+    "keyword": "太陽光発電 2026年 義務化"
   },
   {
-    "title": "太陽光発電の廃棄・撤去費用",
-    "filename": "solar-disposal-2026.json",
-    "category": "cost"
+    "filename": "fit-vs-fip-difference.json",
+    "title": "太陽光発電のFITとFIPの違いとは？仕組みと住宅用への影響を解説",
+    "category": "beginner",
+    "keyword": "太陽光発電 fit と fip の違い"
   },
   {
-    "title": "産業用太陽光発電の投資収益計算",
-    "filename": "industrial-solar-2026.json",
-    "category": "cost"
+    "filename": "solar-panel-roof-mounting.json",
+    "title": "太陽光パネルを屋根に固定する方法｜架台・工法の種類と雨漏り対策",
+    "category": "panel",
+    "keyword": "太陽光パネル 屋根 固定 方法"
   },
   {
-    "title": "太陽光発電の保証制度と保険の選び方",
-    "filename": "solar-warranty-2026.json",
-    "category": "company"
+    "filename": "solar-name-change-procedure.json",
+    "title": "太陽光発電の名義変更のやり方｜相続・売買時の手続きと必要書類を解説",
+    "category": "beginner",
+    "keyword": "太陽光発電 名義変更 やり方"
   },
   {
-    "title": "太陽光発電を設置した家の売買・査定",
-    "filename": "solar-house-sale-2026.json",
-    "category": "beginner"
+    "filename": "power-conditioner-selection.json",
+    "title": "太陽光発電パワコンの選び方｜変換効率・容量・メーカー比較のポイント",
+    "category": "panel",
+    "keyword": "太陽光発電パワコン選び方"
   },
   {
-    "title": "太陽光発電と電気自動車の相性",
-    "filename": "solar-ev-2026.json",
-    "category": "beginner"
+    "filename": "kanagawa-zero-initial-cost-subsidy.json",
+    "title": "神奈川県の太陽光初期費用ゼロ補助金とは？対象条件と申請の流れを解説",
+    "category": "cost",
+    "keyword": "神奈川県太陽光初期費用ゼロ補助金"
   },
   {
-    "title": "太陽光発電システムの仕組みをわかりやすく解説",
-    "filename": "solar-mechanism-2026.json",
-    "category": "beginner"
+    "filename": "battery-lifespan.json",
+    "title": "家庭用蓄電池の耐用年数は何年？寿命を延ばす使い方と交換費用の目安",
+    "category": "panel",
+    "keyword": "蓄電池 耐用年数"
   },
   {
-    "title": "日本の太陽光発電の普及状況2026",
-    "filename": "solar-spread-2026.json",
-    "category": "beginner"
-  },
-  {
-    "title": "単結晶と多結晶パネルの違いを比較",
-    "filename": "monocrystalline-vs-poly-2026.json",
-    "category": "panel"
-  },
-  {
-    "title": "太陽光発電の自家消費率を上げる方法",
-    "filename": "self-consumption-2026.json",
-    "category": "beginner"
-  },
-  {
-    "title": "太陽光発電業者の見積もり比較の見方",
-    "filename": "solar-quote-read-2026.json",
-    "category": "company"
-  },
-  {
-    "title": "カーポートへの太陽光発電設置",
-    "filename": "carport-solar-2026.json",
-    "category": "beginner"
-  },
-  {
-    "title": "SHARP(シャープ)太陽光発電の評判",
-    "filename": "sharp-solar-2026.json",
-    "category": "panel"
-  },
-  {
-    "title": "太陽光発電の故障・不具合の原因と修理",
-    "filename": "solar-repair-2026.json",
-    "category": "company"
-  },
-  {
-    "title": "再生可能エネルギーの種類と太陽光の位置付け",
-    "filename": "renewable-energy-2026.json",
-    "category": "beginner"
+    "filename": "battery-comparison-sites.json",
+    "title": "蓄電池の比較サイトおすすめ5選｜一括見積もりで失敗せず安く買う使い方",
+    "category": "company",
+    "keyword": "蓄電池 比較サイト"
   }
 ]
