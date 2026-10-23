@@ -28,6 +28,19 @@ function affiliateTop(topic) {
     return AFFILIATE_TOP;
   }
 }
+
+// 記事担当の執筆ルール（media-ops で全サイト共通）。古い年やうろ覚えの数字による誤情報を防ぐ
+function writingRules() {
+  const today = new Date().toISOString().split('T')[0];
+  const year = today.slice(0, 4);
+  return `今日は${today}（${year}年）です。以下の執筆ルールは、他の指示より優先してください。
+- タイトルや本文に年を書くときは${year}年とする。過去の年を「最新」と書かない
+- 金利・手数料・年会費・料金・還元率・保険料・利回り・年収・キャンペーン額など変わりやすい数値は、確実に知っているものだけを「目安」「執筆時点」と添えて書く。自信のない数値・特典・キャンペーンは書かず、公式サイトで最新情報を確認するよう案内する
+- 実在しない商品・サービス・統計・調査結果を作らない。「〇〇調べ」などの出典を作らない
+- 「絶対」「必ず」「誰でも」「100%」などの断定・誇大表現を使わない
+- 比較表は、数値の代わりに特徴・向いている人・注意点で比べてもよい`;
+}
+
 async function generateArticle() {
   const topicsPath = path.join(__dirname, '..', 'unused-topics.json');
   const contentDir = path.join(__dirname, '..', 'content');
@@ -39,8 +52,8 @@ async function generateArticle() {
   console.log(`生成中: ${topic.title}`);
   const today = new Date().toISOString().split('T')[0];
   const message = await client.messages.create({
-    model: 'claude-haiku-4-5-20251001', max_tokens: 6000,
-    messages: [{ role: 'user', content: `あなたは太陽光発電メディア「${SITE.name}」の専門ライターです。以下のJSON形式のみで出力してください:\n{"title":"タイトル(40〜60文字)","description":"説明(120文字以内)","category":"${topic.category}","date":"${today}","content":"HTMLコンテンツ"}\nトピック:${topic.title}${topic.keyword ? `\n狙う検索キーワード: ${topic.keyword}` : ''}\ncontent要件:1500文字程度のHTML、h2×3〜5個、ul/table活用、具体的な費用・補助金含む、JSON全体を必ず完結させる` }],
+    model: 'claude-haiku-4-5-20251001', max_tokens: 6000, system: writingRules(),
+    messages: [{ role: 'user', content: `あなたは太陽光発電メディア「${SITE.name}」の専門ライターです。以下のJSON形式のみで出力してください:\n{"title":"タイトル(40〜60文字)","description":"説明(120文字以内)","category":"${topic.category}","date":"${today}","content":"HTMLコンテンツ"}\nトピック:${topic.title}${topic.keyword ? `\n狙う検索キーワード: ${topic.keyword}` : ''}\ncontent要件:1500文字程度のHTML、h2×3〜5個、ul/table活用、費用・補助金（数値は確かなものだけ目安として）含む、JSON全体を必ず完結させる` }],
   });
   const text = message.content[0].text.trim();
   console.log('レスポンス先頭200文字:', text.slice(0, 200));
